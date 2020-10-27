@@ -1,0 +1,255 @@
+tsa_id,tsa_name,county,fips
+G.,Longview/Tyler,Anderson,48001
+J.,Midland/Odessa,Andrews,48003
+H.,Lufkin,Angelina,48005
+U.,Corpus Christi,Aransas,48007
+C.,Wichita Falls,Archer,48009
+A.,Amarillo,Armstrong,48011
+P.,San Antonio,Atascosa,48013
+Q.,Houston,Austin,48015
+B.,Lubbock,Bailey,48017
+P.,San Antonio,Bandera,48019
+O.,Austin,Bastrop,48021
+C.,Wichita Falls,Baylor,48023
+U.,Corpus Christi,Bee,48025
+L.,Belton/Killeen,Bell,48027
+P.,San Antonio,Bexar,48029
+O.,Austin,Blanco,48031
+B.,Lubbock,Borden,48033
+M.,Waco,Bosque,48035
+F.,Paris,Bowie,48037
+R.,Galveston,Brazoria,48039
+N.,Bryan/College Station,Brazos,48041
+J.,Midland/Odessa,Brewster,48043
+A.,Amarillo,Briscoe,48045
+U.,Corpus Christi,Brooks,48047
+D.,Abilene,Brown,48049
+N.,Bryan/College Station,Burleson,48051
+O.,Austin,Burnet,48053
+O.,Austin,Caldwell,48055
+S.,Victoria,Calhoun,48057
+D.,Abilene,Callahan,48059
+V.,Lower Rio Grande Valley,Cameron,48061
+G.,Longview/Tyler,Camp,48063
+A.,Amarillo,Carson,48065
+F.,Paris,Cass,48067
+B.,Lubbock,Castro,48069
+R.,Galveston,Chambers,48071
+G.,Longview/Tyler,Cherokee,48073
+A.,Amarillo,Childress,48075
+C.,Wichita Falls,Clay,48077
+B.,Lubbock,Cochran,48079
+K.,San Angelo,Coke,48081
+D.,Abilene,Coleman,48083
+E.,Dallas/Ft. Worth,Collin,48085
+A.,Amarillo,Collingsworth,48087
+Q.,Houston,Colorado,48089
+P.,San Antonio,Comal,48091
+D.,Abilene,Comanche,48093
+K.,San Angelo,Concho,48095
+E.,Dallas/Ft. Worth,Cooke,48097
+L.,Belton/Killeen,Coryell,48099
+B.,Lubbock,Cottle,48101
+J.,Midland/Odessa,Crane,48103
+K.,San Angelo,Crockett,48105
+B.,Lubbock,Crosby,48107
+I.,El Paso,Culberson,48109
+A.,Amarillo,Dallam,48111
+E.,Dallas/Ft. Worth,Dallas,48113
+B.,Lubbock,Dawson,48115
+A.,Amarillo,Deaf Smith,48117
+F.,Paris,Delta,48119
+E.,Dallas/Ft. Worth,Denton,48121
+S.,Victoria,Dewitt,48123
+B.,Lubbock,Dickens,48125
+P.,San Antonio,Dimmit,48127
+A.,Amarillo,Donley,48129
+U.,Corpus Christi,Duval,48131
+D.,Abilene,Eastland,48133
+J.,Midland/Odessa,Ector,48135
+P.,San Antonio,Edwards,48137
+I.,El Paso,El Paso,48141
+E.,Dallas/Ft. Worth,Ellis,48139
+E.,Dallas/Ft. Worth,Erath,48143
+L.,Belton/Killeen,Falls,48145
+E.,Dallas/Ft. Worth,Fannin,48147
+O.,Austin,Fayette,48149
+D.,Abilene,Fisher,48151
+B.,Lubbock,Floyd,48153
+C.,Wichita Falls,Foard,48155
+Q.,Houston,Fort Bend,48157
+G.,Longview/Tyler,Franklin,48159
+G.,Longview/Tyler,Freestone,48161
+P.,San Antonio,Frio,48163
+B.,Lubbock,Gaines,48165
+R.,Galveston,Galveston,48167
+B.,Lubbock,Garza,48169
+P.,San Antonio,Gillespie,48171
+J.,Midland/Odessa,Glasscock,48173
+S.,Victoria,Goliad,48175
+P.,San Antonio,Gonzales,48177
+A.,Amarillo,Gray,48179
+E.,Dallas/Ft. Worth,Grayson,48181
+G.,Longview/Tyler,Gregg,48183
+N.,Bryan/College Station,Grimes,48185
+P.,San Antonio,Guadalupe,48187
+B.,Lubbock,Hale,48189
+A.,Amarillo,Hall,48191
+L.,Belton/Killeen,Hamilton,48193
+A.,Amarillo,Hansford,48195
+C.,Wichita Falls,Hardeman,48197
+R.,Galveston,Hardin,48199
+Q.,Houston,Harris,48201
+G.,Longview/Tyler,Harrison,48203
+A.,Amarillo,Hartley,48205
+D.,Abilene,Haskell,48207
+O.,Austin,Hays,48209
+A.,Amarillo,Hemphill,48211
+G.,Longview/Tyler,Henderson,48213
+V.,Lower Rio Grande Valley,Hidalgo,48215
+M.,Waco,Hill,48217
+B.,Lubbock,Hockley,48219
+E.,Dallas/Ft. Worth,Hood,48221
+F.,Paris,Hopkins,48223
+G.,Longview/Tyler,Houston,48225
+J.,Midland/Odessa,Howard,48227
+I.,El Paso,Hudspeth,48229
+E.,Dallas/Ft. Worth,Hunt,48231
+A.,Amarillo,Hutchinson,48233
+K.,San Angelo,Irion,48235
+C.,Wichita Falls,Jack,48237
+S.,Victoria,Jackson,48239
+R.,Galveston,Jasper,48241
+J.,Midland/Odessa,Jeff Davis,48243
+R.,Galveston,Jefferson,48245
+T.,Laredo,Jim Hogg,48247
+U.,Corpus Christi,Jim Wells,48249
+D.,Abilene,Jones,48253
+E.,Dallas/Ft. Worth,Johnson,48251
+P.,San Antonio,Karnes,48255
+E.,Dallas/Ft. Worth,Kaufman,48257
+P.,San Antonio,Kendall,48259
+U.,Corpus Christi,Kenedy,48261
+B.,Lubbock,Kent,48263
+P.,San Antonio,Kerr,48265
+K.,San Angelo,Kimble,48267
+B.,Lubbock,King,48269
+P.,San Antonio,Kinney,48271
+U.,Corpus Christi,Kleberg,48273
+D.,Abilene,Knox,48275
+P.,San Antonio,La Salle,48283
+F.,Paris,Lamar,48277
+B.,Lubbock,Lamb,48279
+L.,Belton/Killeen,Lampasas,48281
+S.,Victoria,Lavaca,48285
+O.,Austin,Lee,48287
+N.,Bryan/College Station,Leon,48289
+R.,Galveston,Liberty,48291
+M.,Waco,Limestone,48293
+A.,Amarillo,Lipscomb,48295
+U.,Corpus Christi,Live Oak,48297
+O.,Austin,Llano,48299
+J.,Midland/Odessa,Loving,48301
+B.,Lubbock,Lubbock,48303
+B.,Lubbock,Lynn,48305
+N.,Bryan/College Station,Madison,48313
+G.,Longview/Tyler,Marion,48315
+J.,Midland/Odessa,Martin,48317
+K.,San Angelo,Mason,48319
+Q.,Houston,Matagorda,48321
+P.,San Antonio,Maverick,48323
+K.,San Angelo,McCulloch,48307
+M.,Waco,McLennan,48309
+U.,Corpus Christi,McMullen,48311
+P.,San Antonio,Medina,48325
+K.,San Angelo,Menard,48327
+J.,Midland/Odessa,Midland,48329
+L.,Belton/Killeen,Milam,48331
+L.,Belton/Killeen,Mills,48333
+D.,Abilene,Mitchell,48335
+C.,Wichita Falls,Montague,48337
+Q.,Houston,Montgomery,48339
+A.,Amarillo,Moore,48341
+F.,Paris,Morris,48343
+B.,Lubbock,Motley,48345
+H.,Lufkin,Nacogdoches,48347
+E.,Dallas/Ft. Worth,Navarro,48349
+R.,Galveston,Newton,48351
+D.,Abilene,Nolan,48353
+U.,Corpus Christi,Nueces,48355
+A.,Amarillo,Ochiltree,48357
+A.,Amarillo,Oldham,48359
+R.,Galveston,Orange,48361
+E.,Dallas/Ft. Worth,Palo Pinto,48363
+G.,Longview/Tyler,Panola,48365
+E.,Dallas/Ft. Worth,Parker,48367
+A.,Amarillo,Parmer,48369
+J.,Midland/Odessa,Pecos,48371
+H.,Lufkin,Polk,48373
+A.,Amarillo,Potter,48375
+J.,Midland/Odessa,Presidio,48377
+G.,Longview/Tyler,Rains,48379
+A.,Amarillo,Randall,48381
+K.,San Angelo,Reagan,48383
+P.,San Antonio,Real,48385
+F.,Paris,Red River,48387
+J.,Midland/Odessa,Reeves,48389
+U.,Corpus Christi,Refugio,48391
+A.,Amarillo,Roberts,48393
+N.,Bryan/College Station,Robertson,48395
+E.,Dallas/Ft. Worth,Rockwall,48397
+K.,San Angelo,Runnels,48399
+G.,Longview/Tyler,Rusk,48401
+H.,Lufkin,Sabine,48403
+H.,Lufkin,San Augustine,48405
+H.,Lufkin,San Jacinto,48407
+U.,Corpus Christi,San Patricio,48409
+O.,Austin,San Saba,48411
+K.,San Angelo,Schleicher,48413
+B.,Lubbock,Scurry,48415
+D.,Abilene,Shackelford,48417
+G.,Longview/Tyler,Shelby,48419
+A.,Amarillo,Sherman,48421
+G.,Longview/Tyler,Smith,48423
+E.,Dallas/Ft. Worth,Somervell,48425
+V.,Lower Rio Grande Valley,Starr,48427
+D.,Abilene,Stephens,48429
+K.,San Angelo,Sterling,48431
+D.,Abilene,Stonewall,48433
+K.,San Angelo,Sutton,48435
+A.,Amarillo,Swisher,48437
+E.,Dallas/Ft. Worth,Tarrant,48439
+D.,Abilene,Taylor,48441
+J.,Midland/Odessa,Terrell,48443
+B.,Lubbock,Terry,48445
+D.,Abilene,Throckmorton,48447
+F.,Paris,Titus,48449
+K.,San Angelo,Tom Green,48451
+O.,Austin,Travis,48453
+G.,Longview/Tyler,Trinity,48455
+H.,Lufkin,Tyler,48457
+G.,Longview/Tyler,Upshur,48459
+J.,Midland/Odessa,Upton,48461
+P.,San Antonio,Uvalde,48463
+P.,San Antonio,Val Verde,48465
+G.,Longview/Tyler,Van Zandt,48467
+S.,Victoria,Victoria,48469
+Q.,Houston,Walker,48471
+Q.,Houston,Waller,48473
+J.,Midland/Odessa,Ward,48475
+N.,Bryan/College Station,Washington,48477
+T.,Laredo,Webb,48479
+Q.,Houston,Wharton,48481
+A.,Amarillo,Wheeler,48483
+C.,Wichita Falls,Wichita,48485
+C.,Wichita Falls,Wilbarger,48487
+V.,Lower Rio Grande Valley,Willacy,48489
+O.,Austin,Williamson,48491
+P.,San Antonio,Wilson,48493
+J.,Midland/Odessa,Winkler,48495
+E.,Dallas/Ft. Worth,Wise,48497
+G.,Longview/Tyler,Wood,48499
+B.,Lubbock,Yoakum,48501
+C.,Wichita Falls,Young,48503
+T.,Laredo,Zapata,48505
+P.,San Antonio,Zavala,48507
