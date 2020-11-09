@@ -466,7 +466,7 @@ get_statewide_df <- function(path, dshs_df, example_tsa) {
     bind_cols(get_statewide_summary(smoothed_states, new_covars, dshs_df, current_tsa = "Statewide"))
 }
 
-get_tsa_df <- function(path, dshs_df, example_tsa = 'data/results/res-10.8-Abilene.Rda'){
+get_tsa_df <- function( path, dshs_df, example_tsa = 'data/results/res-10.8-Abilene.Rda') {
   if(grepl("Texas", path)) {
     get_statewide_df(path, dshs_df, example_tsa)
   } else {
@@ -752,7 +752,8 @@ plot_individual_tsa_variable <- function(varname,
                                 tsa_df, 
                                 dshs_df,
                                 retrospective_days = 60,
-                                days_to_project = 21){
+                                days_to_project = 21,
+                                make.pdf=F){
 
   # tsa_df
   # browser()
@@ -790,12 +791,16 @@ plot_individual_tsa_variable <- function(varname,
     dir.create(file_path)
   }
   
-  pdf(paste0(file_path, "/", varname, "-individual.pdf"), onefile = TRUE, height = 5, width = 7)
-  for(i in 1:nrow(plot_df)){
-    print(plot_df$fig[[i]])
+  if( make.pdf) {
+    pdf(paste0(file_path, "/", varname, "-individual.pdf"), onefile = TRUE, height = 5, width = 7)
   }
-  dev.off()
-  
+  for(i in 1:nrow(plot_df)){
+  #  print(plot_df$fig[[i]])
+  }
+  if( make.pdf) {
+    dev.off()
+  }
+
   change_plot_to_facet <- function(x){
     x + theme(plot.title = element_text(size = 10),
               axis.title.y = element_text(size = 6),
@@ -819,10 +824,13 @@ plot_individual_tsa_variable <- function(varname,
       plot.margin = margin(0, 0, 0, 0)
     )
 
+  title <- ggdraw() + draw_label( varlabel, fontface='bold')
+  empty <- ggdraw()
+
   plot_df %>%
-    mutate(fig2 = map(fig, change_plot_to_facet)) %>%
+    mutate(fig2 = purrr::map(fig, change_plot_to_facet)) %>%
     pull(fig2) %>%
-    plot_grid(plotlist = ., nrow = 6) %>%
-    plot_grid(y_label, ., rel_widths = c(1, 20)) %>%
-    save_plot(filename = paste0(file_path, "/", varname, ".png"), plot = ., base_height = 12, base_asp = 0.9)
+    plot_grid(title,empty,plotlist = ., nrow = 6) %>%
+    plot_grid(y_label, ., rel_widths = c(1, 20)) #%>%
+#    save_plot(filename = paste0(file_path, "/", varname, ".png"), plot = ., base_height = 12, base_asp = 0.9)
 }
